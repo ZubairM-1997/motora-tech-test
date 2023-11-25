@@ -19,6 +19,8 @@ if you want to run the docker container
 
 enter "docker-compose up --build" in the terminal
 
+Before this, ensure you have docker and docker-compose installed
+
 There are 4 endpoints in the backend
 
 1) GET /admin-summary
