@@ -12,6 +12,13 @@ Ensure you have the latest versions of Node and Vue installed
 4) un "npm run server" to run the client
 5) Have fun!
 
+
+OR
+
+if you want to run the docker container
+
+enter "docker-compose up --build" in the terminal
+
 There are 4 endpoints in the backend
 
 1) GET /admin-summary
